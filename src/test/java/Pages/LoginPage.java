@@ -8,9 +8,8 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 
-	private By searchBox = private By searchBox = By.xpath("//textarea[@title='Search']");
-	
-	
+	private By searchBox = By.xpath("//textarea[@title='Search']");
+		
 	public LoginPage(){
 		}
 	
